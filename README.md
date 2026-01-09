@@ -14,3 +14,10 @@ Desenvolver um site de avaliação e recomendação de jogos, permitindo aos usu
 
 ## 📚 Status
 Projeto acadêmico finalizado.
+
+## 📦 Código-fonte
+Devido à quantidade de arquivos, o código-fonte completo do projeto
+está disponibilizado de forma compactada (.zip).
+
+O projeto foi desenvolvido para execução em ambiente local (localhost),
+utilizando PHP e MySQL.
