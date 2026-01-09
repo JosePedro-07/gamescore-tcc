@@ -29,3 +29,10 @@ utilizando PHP, JavaScript, HTML, CSS e MySQL.
 ## 🔐 Observação
 Dados sensíveis foram removidos. O banco disponibilizado contém apenas
 estrutura e dados fictícios para fins acadêmicos.
+
+## ⚠️ Observação sobre a API
+A API do projeto depende de configurações locais (localhost e banco MySQL).
+Por esse motivo, pode não funcionar fora do ambiente de desenvolvimento original.
+
+O objetivo deste repositório é demonstrar a estrutura, organização do código
+e os conceitos aplicados no projeto acadêmico.
