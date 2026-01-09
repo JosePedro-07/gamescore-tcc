@@ -20,4 +20,4 @@ Devido à quantidade de arquivos, o código-fonte completo do projeto
 está disponibilizado de forma compactada (.zip).
 
 O projeto foi desenvolvido para execução em ambiente local (localhost),
-utilizando PHP e MySQL.
+utilizando PHP, JavaScript, HTML, CSS e MySQL.
